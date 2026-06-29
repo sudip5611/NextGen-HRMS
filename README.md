@@ -22,5 +22,5 @@ Open a terminal, navigate to the `frontend` folder, and run:
 ```bash
 npm install
 npm run dev
-
+```
 The React application will start on your local development server.
